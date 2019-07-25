@@ -1,2 +1,2 @@
-# Meu primeiro repositório padawan
-Curso Formatação JavaScript Mestre Jedi
+# Meu primeiro repositório GitHub - padawan
+## Curso Formatação JavaScript Mestre Jedi
